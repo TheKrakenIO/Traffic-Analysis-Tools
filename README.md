@@ -35,7 +35,7 @@ To use `tCpDump.sh`, ensure the following are installed:
 ## Installation ⚙️
 1. Clone the repository:
    ``` 
-   git clone https://github.com/your-username/Traffic-Analysis-Tools.git
+   git clone https://github.com/TheKrakenIO/Traffic-Analysis-Tools.git
    cd Traffic-Analysis-Tools
    ```
 2 Make the script executable:
